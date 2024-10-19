@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #0b1622;
-    height: 100vh;
+    height: 50vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,7 +21,7 @@ body {
     text-align: center;
     color: #f2e200;
     font-style: italic;
-    margin-top: 20px; /* Ajusta según sea necesario */
+    margin-top: -200px; /* Ajusta según sea necesario */
     width: 100%; /* Ocupa el ancho completo del contenedor */
     position: absolute; /* Cambiado a 'absolute' para alinear con .heart */
     top: 50%; /* Centra verticalmente el texto */
